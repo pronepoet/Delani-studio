@@ -2,14 +2,14 @@
     text-align: center;
     color:white;
     background-image: url("/assets/backgrounds/h_img.jpg");
-height:500px;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .second-image{
     background-image: url("/assets/backgrounds/s_image.jpg");
-    height: 300px;
+   
     color: white;
     text-align: center;
 }
@@ -21,12 +21,12 @@ height:500px;
    
   text-align: center;
   width:70%;
-
-}
+ 
+ }
 .contact_us{
     background-image: url("/assets/backgrounds/c_image.jpg");
-    height:400px;
-}
+  
+} 
 ul{
     list-style: none;
     display: flex;
