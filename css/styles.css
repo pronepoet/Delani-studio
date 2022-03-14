@@ -27,6 +27,12 @@ height:500px;
     background-image: url("/assets/backgrounds/c_image.jpg");
     height:400px;
 }
+ul{
+    list-style: none;
+    display: flex;
+
+}
 footer{
+
     text-align: center;
 }
