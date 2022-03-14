@@ -36,12 +36,30 @@
     margin-top: 40px;
 }
 
+.design_text{
+    display:none;
+}
+.dev_text{
+    display: none;
+}
+.manage_text {
+    display:none;
+}
+
+
 .portfolio {
     margin-top: 40px;
-    text-align: center;
-    width: 70%;
+  
 
+  
 }
+
+
+/* .row1{
+    display: flex;
+   justify-content: space-between;
+   ;
+} */
 
 .contact_us {
     margin-top: 40px;
