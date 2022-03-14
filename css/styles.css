@@ -1,57 +1,64 @@
-.top-image{
+.top-image {
     text-align: center;
-    color:white;
+    color: white;
     background-image: url("/assets/backgrounds/h_img.jpg");
 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.text1{
+
+.text1 {
     padding-top: 150px;
 }
 
-.second-image{
+.second-image {
 
     background-image: url("/assets/backgrounds/s_image.jpg");
-   
+
     color: white;
     text-align: center;
 }
-.about{
+
+.about {
     margin-top: 40px;
     text-align: center;
     margin-bottom: 40px;
 }
-.service_heading{
-    text-align: center;
-   padding-bottom:40px ;
-}
-.what_we_do{
-    
-    margin-top: 40px;
-}
-.portfolio{
-    margin-top: 40px;
-  text-align: center;
-  width:70%;
- 
- }
 
-.contact_us{
+.service_heading {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.what_we_do {
+
+    margin-top: 40px;
+}
+
+.portfolio {
+    margin-top: 40px;
+    text-align: center;
+    width: 70%;
+
+}
+
+.contact_us {
     margin-top: 40px;
     background-image: url("/assets/backgrounds/c_image.jpg");
-  color:white;
-  text-align: center;
-} 
-.form-control{
-    background-color: transparent;
-    width:50%;
-    height:400px;
-   margin:auto;
-   margin-bottom: 100px;
+    color: white;
+    text-align: center;
 }
-    .form-control::placeholder {
+
+.form-control {
+    background-color: transparent;
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.form-control::placeholder {
     color: white;
     opacity: 1;
 
@@ -61,15 +68,20 @@
     color: white;
     opacity: 1;
 }
-ul{
+
+ul {
+    margin-top: 20px;
     list-style: none;
     display: flex;
+    justify-content: center;
 
 }
-footer{
+
+footer {
 
     text-align: center;
 }
+
 input {
     background-color: transparent;
 }
