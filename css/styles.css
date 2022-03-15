@@ -36,129 +36,138 @@
     margin-top: 40px;
 }
 
-.design_text{
-   text-align: center;
-    display:none;
-}
-.dev_text{
+.design_text {
     text-align: center;
     display: none;
 }
+
+.dev_text {
+    text-align: center;
+    display: none;
+}
+
 .manage_text {
     text-align: center;
-    display:none;
+    display: none;
 }
 
 
 .portfolio {
     margin-top: 40px;
-  
+    text-align: center;
 
-  
+
+
 }
+
 /* .portfolio-item{
     opacity: 0;
     transition: .5s ease;
     background-color: transparent;
 } */
-.portfolio-item1{
-    position:relative;
-}
-.portfolio-item2{
-    position:relative;
+.portfolio-item1 {
+    position: relative;
 }
 
-.portfolio-item3{
-    position:relative;
+.portfolio-item2 {
+    position: relative;
 }
 
-.portfolio-item4{
-    position:relative;
+.portfolio-item3 {
+    position: relative;
 }
 
-.portfolio-item5{
-    position:relative;
-}
-.portfolio-item6{
-    position:relative;
-}
-.portfoio-item7{
-    position:relative;
+.portfolio-item4 {
+    position: relative;
 }
 
-.portfolio-item8{
-    position:relative;
+.portfolio-item5 {
+    position: relative;
 }
-.overlay1{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
-    
+
+.portfolio-item6 {
+    position: relative;
+}
+
+.portfoio-item7 {
+    position: relative;
+}
+
+.portfolio-item8 {
+    position: relative;
+}
+
+.overlay1 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
+
     background: rgba(0, 0, 0, 0.2);
-    display:none;
-}
-.overlay2{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
-    background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
 
-.overlay3{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
+.overlay2 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
 
-.overlay4{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
+.overlay3 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
 
-.overlay5{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
+.overlay4 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
 
-.overlay6{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
+.overlay5 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
+}
+
+.overlay6 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
+    background: rgba(0, 0, 0, 0.5);
+    display: none;
 }
 
 /* .overlay7{
@@ -172,17 +181,18 @@
     background: rgba(0, 0, 0, 0.5);
 } */
 
-.overlay8{
-    color:white;
-    position:absolute;
-    top:17px;
-    left:50px;
-    border:2px solid;
-    padding:100px;
-    font-size:1.5rem;
+.overlay8 {
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 50px;
+    border: 2px solid;
+    padding: 100px;
+    font-size: 1.5rem;
     background: rgba(0, 0, 0, 0.5);
-    display:none;
+    display: none;
 }
+
 .contact_us {
     margin-top: 40px;
     background-image: url("/assets/backgrounds/c_image.jpg");
