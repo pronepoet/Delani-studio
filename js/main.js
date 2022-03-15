@@ -85,12 +85,13 @@ $(document).ready(function () {
 let button = document.querySelector(".button");
 button.addEventListener('click', function (e) {
 
-    let namee = document.querySelector(".nameInput").value;
+    let namee = document.querySelector(".nameInput");
     e.preventDefault();
-    if (namee != null) {
-        alert(`Thank you ${namee} for contacting us!`);
+    if (namee.value.trim().length <= 0) {
+        alert(`You have not entered anything all the details`)
+     
     } else {
-        return 0;
+        alert(`Thank you ${namee.value} for contacting us!`);
     }
 
 })
