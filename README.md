@@ -1,5 +1,5 @@
 # Portfolio Website
-This a is the third Indepndent project here at Moringa School. 
+This a is the third Indepndent project here at Moringa School. It employs the use of JQUERY which we have been learning through the third week of Moringa.
 ![screenshot](assets/Screenshot%20from%202022-03-15%2005-58-54.png)
 ## Technologies Used
 - HTML & CSS (Bootstrap)
