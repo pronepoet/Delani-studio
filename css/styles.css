@@ -235,12 +235,19 @@ footer {
 input {
     background-color: transparent;
 }
-.nameInput{
-    width:400px;
-    margin-right:50px;
+
+.nameInput {
+    width: 400px;
+    margin-right: 50px;
     margin-bottom: 20px;
 }
-#mce-EMAIL{
-    width:400px;
+
+#mce-EMAIL {
+    width: 400px;
     margin-bottom: 20px;
+}
+
+.services-text {
+    padding: 90px 0 90px 0;
+
 }
