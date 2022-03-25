@@ -73,11 +73,11 @@
 .contact_us {
     margin-top: 40px;
     background-image: url("/assets/backgrounds/c_image.jpg");
-    color: white;
+    /* color: white; */
     text-align: center;
 }
 
-.form-control {
+/* .form-control {
     background-color: transparent;
     width: 50%;
     height: 400px;
@@ -89,12 +89,12 @@
     color: white;
     opacity: 1;
 
-}
+} */
 
-::placeholder {
+/* ::placeholder {
     color: white;
     opacity: 1;
-}
+} */
 
 ul {
     margin-top: 20px;
@@ -109,7 +109,7 @@ footer {
     text-align: center;
 }
 
-input {
+/* input {
     background-color: transparent;
 }
 
@@ -117,12 +117,12 @@ input {
     width: 400px;
     margin-right: 50px;
     margin-bottom: 20px;
-}
+} */
 
-#mce-EMAIL {
+/* #mce-EMAIL {
     width: 400px;
     margin-bottom: 20px;
-}
+} */
 
 .services-text {
     padding: 90px 0 90px 0;
