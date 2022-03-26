@@ -1,6 +1,9 @@
 # Portfolio Website
-This a is the third Indepndent project here at Moringa School. It employs the use of JQUERY which we have been learning through the third week of Moringa.
-![screenshot](assets/Screenshot%20from%202022-03-15%2005-58-54.png)
+This a is the third Indepndent project here at Moringa School. It employs the use of JQUERY which we have been learning through the third week of Moringa. Titled Delani Studios, it shows what the studio deals in and a summary of the projects that have been created.
+![screenshot](assets/images/screenshot1.png)
+![screenshot](assets/images/screenshot2.png)
+![screenshot](assets/images/screenshot3.png)
+![screenshot](assets/images/screenshot4.png)
 ## Technologies Used
 - HTML & CSS (Bootstrap)
 - Javascript
@@ -9,7 +12,7 @@ This a is the third Indepndent project here at Moringa School. It employs the us
 ##### Requirements
 Internet connection
 ##### Setup Instructions and Installation
-N/A
+Clone the repository and run the index.html file
 ## Known Bugs
 none
 ##### Link to Live Site : 
