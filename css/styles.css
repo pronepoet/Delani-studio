@@ -2,11 +2,11 @@
     text-align: center;
     color: white;
     background-image: url("/assets/backgrounds/h_img.jpg");
-    
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
+
 }
 
 .text1 {
@@ -37,12 +37,14 @@
     margin-top: 40px;
 }
 
-.design_text, .dev_text, .manage_text {
+.design_text,
+.dev_text,
+.manage_text {
     text-align: center;
     display: none;
 }
 
- 
+
 
 
 .portfolio {
@@ -54,11 +56,24 @@
 }
 
 
-.portfolio-item1, .portfolio-item2, .portfolio-item3, .portfolio-item4, .portfolio-item5, .portfolio-item6, .portfoio-item7, .portfolio-item8{
+.portfolio-item1,
+.portfolio-item2,
+.portfolio-item3,
+.portfolio-item4,
+.portfolio-item5,
+.portfolio-item6,
+.portfoio-item7,
+.portfolio-item8 {
     position: relative;
 }
 
-.overlay1, .overlay2, .overlay3, .overlay4, .overlay5, .overlay6, .overlay8{
+.overlay1,
+.overlay2,
+.overlay3,
+.overlay4,
+.overlay5,
+.overlay6,
+.overlay8 {
     color: white;
     position: absolute;
     top: 17px;
@@ -77,24 +92,6 @@
     text-align: center;
 }
 
-/* .form-control {
-    background-color: transparent;
-    width: 50%;
-    height: 400px;
-    margin: auto;
-    margin-bottom: 100px;
-}
-
-.form-control::placeholder {
-    color: white;
-    opacity: 1;
-
-} */
-
-/* ::placeholder {
-    color: white;
-    opacity: 1;
-} */
 
 ul {
     margin-top: 20px;
@@ -108,21 +105,6 @@ footer {
 
     text-align: center;
 }
-
-/* input {
-    background-color: transparent;
-}
-
-.nameInput {
-    width: 400px;
-    margin-right: 50px;
-    margin-bottom: 20px;
-} */
-
-/* #mce-EMAIL {
-    width: 400px;
-    margin-bottom: 20px;
-} */
 
 .services-text {
     padding: 90px 0 90px 0;
