@@ -72,10 +72,19 @@ $(document).ready(function () {
         $(".overlay6").hide();
 
     })
+    $(".portfolio-item7").mouseover(function () {
+        $(".overlay7").show();
+
+    })
+    $(".portfolio-item7").mouseout(function () {
+        $(".overlay7").hide();
+
+    })
     $(".portfolio-item8").mouseover(function () {
         $(".overlay8").show();
 
     })
+   
     $(".portfolio-item8").mouseout(function () {
         $(".overlay8").hide();
 
