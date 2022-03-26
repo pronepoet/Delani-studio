@@ -1,3 +1,7 @@
+body{
+    margin:0;
+    padding:0;
+}
 .top-image {
     text-align: center;
     color: white;
@@ -12,6 +16,17 @@
 .text1 {
     padding-top: 150px;
 }
+.amaizing{
+    margin-bottom: 300px;;
+}
+.logo{
+    margin-bottom:50px;
+}
+
+.welcome{
+    margin-bottom:30px;
+}
+
 
 .second-image {
 
@@ -44,14 +59,9 @@
     display: none;
 }
 
-
-
-
 .portfolio {
     margin-top: 40px;
     text-align: center;
-
-
 
 }
 
@@ -62,7 +72,7 @@
 .portfolio-item4,
 .portfolio-item5,
 .portfolio-item6,
-.portfoio-item7,
+.portfolio-item7,
 .portfolio-item8 {
     position: relative;
 }
@@ -73,6 +83,7 @@
 .overlay4,
 .overlay5,
 .overlay6,
+.overlay7,
 .overlay8 {
     color: white;
     position: absolute;
@@ -113,4 +124,27 @@ footer {
 
 li {
     margin-right: 10px;
+}
+
+/* contact section */
+.contact_us{
+    color:white;
+}
+
+/* the contact section */
+.mailInput {
+    width: 50%;
+
+    margin: auto;
+}
+#mce-FNAME,
+#mce-EMAIL,
+#message
+{
+    background:transparent;
+}
+
+/* the placeholder text */
+::placeholder{
+    color:white;
 }
