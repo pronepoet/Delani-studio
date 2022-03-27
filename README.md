@@ -14,7 +14,7 @@ Internet connection
 ##### Setup Instructions and Installation
 Clone the repository and run the index.html file
 ## Known Bugs
-none
+For some reason my images are not all displaying in github pages
 ##### Link to Live Site : 
 [here](https://pronepoet.github.io/Delani-studio/)
 ### License
