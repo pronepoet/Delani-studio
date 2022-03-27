@@ -6,7 +6,7 @@ body {
 .top-image {
     text-align: center;
     color: white;
-    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-image: url("/images/h_img.jpg");
 
     background-position: center;
     background-repeat: no-repeat;
@@ -29,13 +29,7 @@ body {
         transform: translate3d(0,-50px,0);
     }
 }
-bounceClick{
-    -webkit-animation-name:bounce;
-    -webkit-animation-duration:5s;
-    -webkit-animation-direction:alternate;
-    -webkit-animation-timing-function:cubic-bezier(.5, 0,05, 1, .5);
-    -webkit-animation-iteration-count:infinite;
-}
+
 
 @-webkit-keyframes bounce{
 from {
@@ -67,7 +61,7 @@ to {
 
 .second-image {
 
-    background-image: url("/assets/backgrounds/s_image.jpg");
+    background-image: url("/images/s_image.jpg");
 
     color: white;
     text-align: center;
@@ -157,7 +151,7 @@ to {
 
 .contact_us {
     margin-top: 40px;
-    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-image: url("/images/c_image.jpg");
     /* color: white; */
     text-align: center;
 }
